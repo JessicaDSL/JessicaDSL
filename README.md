@@ -1,5 +1,10 @@
 ## Hello World! Eu sou a Jéssica Lima. 🌟
 
+- 🌱 I’m currently learning Frontend Development
+- 📫 How to reach me: jessikurt@gmail.com
+
+##
+
 <div align="center">
 <a href="https://github.com/JessicaDSL">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaDSL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,11 +21,15 @@
   
     
 ##
+
+📪 How to find me:
  
 <div> 
   <a href="https://instagram.com/jess_yk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jessikurt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessicadsl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+##
  
   ![Snake animation](https://github.com/JessicaDSL/JessicaDSL/blob/output/github-contribution-grid-snake.svg)
  

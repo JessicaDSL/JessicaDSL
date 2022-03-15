@@ -1,4 +1,4 @@
-## Hello World! Eu sou a Jéssica Lima. 🌟
+## Hello World! I'm Jéssica Lima. 🌟
 
 - 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me: jessikurt@gmail.com

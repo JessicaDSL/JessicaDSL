@@ -26,10 +26,11 @@
 ##
  
 
- ![Snake animation](https://github.com/JessicaDSL/JessicaDSL/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <!--
+ ![Snake animation](https://github.com/JessicaDSL/JessicaDSL/blob/output/github-contribution-grid-snake.svg)
 
 <div align="display: inline_block">
 <a href="https://github.com/JessicaDSL">
